@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Maria Eduarda</h1>
-<h3 align="center">Sou uma Desenvolvedora Full Stack</h3>
+<h3 align="center">Sou Desenvolvedora Full Stack</h3>
 
 - 📫 Como entrar em contato comigo **mariaedurdamma@gmail.com**
 
